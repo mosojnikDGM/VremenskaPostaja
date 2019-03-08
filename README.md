@@ -4,10 +4,13 @@ BandaVremenskaPostaja
 1. Prenesi repo.
 2. Pripravi okolje. Navodila -> https://docs.heltec.cn/#/en/user_manual/how_to_install_esp32_Arduino
 3. Namesti gonilnik -> https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-4. Kopiraj mapo Heltec_ESP32 v .\Documents\Arduino\libraries
-5. Programiraj.
-6. Pushaj na svoj branch.
-7. Na javnih računalnikih počisti git svojih podatkov -> git config --global --unset-all
+4. V CMD bodi znotraj mape Vremenska postaj
+5. git submodule init
+6. git submodule update
+7. Kopiraj mapo Heltec_ESP32 v .\Documents\Arduino\libraries
+8. Programiraj.
+9. Pushaj na svoj branch.
+10. Na javnih računalnikih počisti git svojih podatkov -> git config --global --unset-all
 
                                 |     |
                                 \\_V_//
