@@ -10,7 +10,7 @@ BandaVremenskaPostaja
 7.  Kopiraj mapo Heltec_ESP32 v .\Documents\Arduino\libraries
 8.  Izberi WIFI_LoRa_32_V2
 9.  Izberi pravi COM port
-10. Programiraj :)
+10. Programiraj :) :)
 11. Pushaj na svoj branch
 12. Na javnih računalnikih počisti git svojih podatkov -> git config --global --unset-all oz. brez --global samo za svojo mapo
 
